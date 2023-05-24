@@ -1,4 +1,4 @@
-# projeto Perfil Pessoal
+# Projeto Perfil Pessoal
 
 Um Projeto,onde você tem as descrições de jogos preferidos e canais e streams mais assistidos, e suas Redes Sociais para Contato.
 
