@@ -2,12 +2,6 @@
 
 Um Projeto,onde você tem as descrições de jogos preferidos e canais e streams mais assistidos, e suas Redes Sociais para Contato.
 
-## 🚀 Começando
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
 ## 🛠️ Construído com
 
 Mencione as ferramentas que você usou para criar seu projeto
