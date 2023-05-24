@@ -16,7 +16,5 @@ Este projeto está sob a licença (Livre e Gratuita)
 
 * Conte a outras pessoas sobre este projeto 📢;
 * Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
 
- Acesse o Projeto: 🚀  <p><a href="https://perfil-git-master-danielrosadasilva.vercel.app/" target="_blank">PerfilPage</a></p>
+ Acesse o Projeto: 🚀  <a href="https://perfil-git-master-danielrosadasilva.vercel.app/" target="_blank">Projeto Perfil</a>
