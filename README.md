@@ -4,8 +4,6 @@ Um Projeto,onde você tem as descrições de jogos preferidos e canais e streams
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [React] - O framework web usado
 
 ## 📄 Licença
