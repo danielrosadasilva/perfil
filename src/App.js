@@ -2,6 +2,7 @@ import './App.css';
 import Header from './componentes/Header';
 import Section from './componentes/Section';
 import ListItem from './componentes/ListItem';
+import Instagram from './assets/instagram.png'
 import { GameListData, ListCanalData, ListSocialData } from './Dados/GameListData';
 
 function App() {
@@ -29,10 +30,12 @@ function App() {
 
           </Section>
           <Section className="social-list" title="Minhas Redes" subtitle="Se Conecte comigo agora mesmo.." >
-
+        
             {ListSocialData.map((item)=>{
                 return(
-                  <ListItem url={item.url} imageUrl={item.imageUrl} alt={item.alt} />
+                  
+                   < ListItem url={item.url} imageUrl='./assets/instagram.png' alt={item.alt} />
+                   
                 )
             })}
 

@@ -16,10 +16,21 @@ export const GameListData=[
         alt:"Imagem do jogo Minecraft",
     },
     {
-        url:"https://www.twitch.tv/directory/game/Teamfight%20Tactics" ,
-        imageUrl:"https://static-cdn.jtvnw.net/ttv-boxart/513143-188x250.jpg" ,
+        url:"https://www.twitch.tv/directory/game/Garena%20Free%20Fire" ,
+        imageUrl:"https://static-cdn.jtvnw.net/ttv-boxart/502732_IGDB-144x192.jpg" ,
+        alt:"Imagem clash royale",
+    },
+    {   
+        url:"https://www.twitch.tv/directory/game/7%20Days%20to%20Die" ,
+        imageUrl:"https://static-cdn.jtvnw.net/ttv-boxart/271304_IGDB-144x192.jpg" ,
+        alt:"Imagem do 7 days to die",
+    },
+    {   
+        url:"https://www.twitch.tv/directory/game/Clash%20Royale" ,
+        imageUrl:"https://static-cdn.jtvnw.net/ttv-boxart/491168_IGDB-144x192.jpg" ,
         alt:"Imagem do jogo TFT",
     },
+    
     
 ]
 
